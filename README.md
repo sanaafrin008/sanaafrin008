@@ -27,7 +27,7 @@ Python · pandas · NumPy · scikit-learn · PyTorch/TensorFlow (learning) · St
    - `README.md` with Quickstart
    - `requirements.txt`
    - `train.py` / `predict.py` or `app/` for demos
-   - Link to a short demo (Streamlit / HuggingFace / Render)
+
 
 ---
 
