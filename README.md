@@ -5,7 +5,7 @@
 - 🔭 Building: end-to-end ML projects with deployment (Streamlit/FastAPI)
 - 🌱 Learning: Transformers, MLOps (Docker, CI/CD, AWS), and scalable model deployment
 - 👯 Open to: ML internships / entry-level ML roles
-- 📫 Contact: your-email@example.com · LinkedIn: https://www.linkedin.com/in/your-linkedin
+- 📫 Contact: sanaafrin049@example.com · 
 
 ---
 
